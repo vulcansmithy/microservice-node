@@ -1,5 +1,5 @@
-const properties = require('../../package.json');
-const distance = require('../service/distance');
+const properties = require("../../package.json");
+const distance = require("../service/distance");
 
 var controllers = {
     about: (req, res) => {
