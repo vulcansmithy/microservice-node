@@ -1,7 +1,7 @@
 {
   "name": "microservices",
   "version": "1.0.0",
-  "description": "",
+  "description": "https://fauna.com/blog/how-to-build-microservices-with-node-js",
   "main": "server.js",
   "dependencies": {
     "express": "^4.17.1",
